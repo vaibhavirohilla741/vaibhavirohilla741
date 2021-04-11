@@ -18,13 +18,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavirohilla741&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/vaibhavirohilla741">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavirohilla741&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavirohilla741&show_icons=true&theme=light&line_height=27" alt="Vaibhavi github stats"/>
 </a>
-<a href="https://github.com/vaibhavirohilla741/OptimizationML">
+<a href="https://github.com/vaibhavirohilla741/Operationalizing-ML">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavirohilla741&repo=Operationalizing-ML&theme=light" />
 
 </a>
-<a href="https://github.com/vaibhavirohilla741/VelocityX">
+<a href="https://github.com/vaibhavirohilla741/Blood-Donation-">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavirohilla741&repo=Blood-Donation-&theme=light" />
 </a>
 
