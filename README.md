@@ -41,8 +41,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavirohilla741&repo=Operationalizing-ML&theme=radical" />
 
 </a>
-<a href="https://github.com/vaibhavirohilla741/Blood-Donation-">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavirohilla741&repo=Blood-Donation-&theme=radical" />
+<a href="https://github.com/vaibhavirohilla741/Blood-Donation">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavirohilla741&repo=Blood-Donation&theme=radical" />
 </a>
 
 <div align="center">
