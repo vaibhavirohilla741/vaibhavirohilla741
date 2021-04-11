@@ -9,5 +9,5 @@
 - 🤔 I’m looking for help with ...CSS
 - 📫 How to reach me: ...www.linkedin.com/in/vaibhavirohilla
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...NCC Cadet
+- ⚡ Fun fact: ...I'am a Air Wing Cadet!!
 -->
