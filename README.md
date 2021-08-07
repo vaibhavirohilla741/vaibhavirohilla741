@@ -38,14 +38,14 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavirohilla741&show_icons=true&theme=radical&line_height=27" alt="Vaibhavi github stats"/>
 </a>
 <a href="https://github.com/vaibhavirohilla741/Own-Blogs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavirohilla741&repo=Operationalizing-ML&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavirohilla741&repo=Own-Blogs&theme=radical" />
 
 </a>
 <a href="https://github.com/vaibhavirohilla741/Weather-Application">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavirohilla741&repo=Blood-Donation&theme=radical" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavirohilla741&repo=Weather-Application&theme=radical" />
 </a>
 <a href="https://github.com/vaibhavirohilla741/Order_MV-Hunger">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavirohilla741&repo=Blood-Donation&theme=radical" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavirohilla741&repo=Order_MV-Hunger&theme=radical" />
 </a>
 
 <div align="center">
